@@ -1,0 +1,35 @@
+body{
+  background: #ccc;
+}
+p{
+  texign:center;
+}
+em{
+  color: #ff0056
+}
+#banner {
+  width:100%
+}
+p{
+  text-align:center;
+}
+.itens {t-style: italic;
+} 
+h2{
+  text-align:center;
+}
+ul{
+  display: inline-block;
+  width:20%;
+  margin-right: 15%;
+  vertical-align:top;
+}
+.magembeneficios{
+  
+  width:100%
+}
+header{
+  text-align:center;
+  background-color: #ffff98;
+    padding: 20px;
+}
