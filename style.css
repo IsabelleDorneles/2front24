@@ -24,7 +24,7 @@ ul{
   margin-right: 15%;
   vertical-align:top;
 }
-.magembeneficios{
+ .imagembeneficios{
   
   width:100%
 }
@@ -33,3 +33,35 @@ header{
   background-color: #ffff98;
     padding: 20px;
 }
+header ul li {
+  display: inline:block;
+  text-decoration: none;
+  padding: 10px;
+  front-size: 20px;
+}
+header ul {
+  width:100%;
+}
+header ul li a{
+    color: #000;
+  text-decoration: none;
+}
+} .imagem.cabelo.jpg 
+  width: 20%
+ {
+}
+.produtos{
+  width: 940px;
+  maring: 0 auto;
+}
+.produtos li{
+  display: inline-block;
+  text-align : center;
+  width:30%
+}
+.produtos h2{
+  front-size:30px;
+  font-weight:bold;
+}
+
+   
