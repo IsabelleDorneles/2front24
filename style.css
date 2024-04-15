@@ -2,7 +2,7 @@ body{
   background: #ccc;
 }
 p{
-  text-align:center;
+  texign:center;
 }
 em{
   color: #ff0056
@@ -13,7 +13,8 @@ em{
 p{
   text-align:center;
 }
-
+.itens {t-style: italic;
+} 
 h2{
   text-align:center;
 }
@@ -45,15 +46,13 @@ header ul li a{
     color: #000;
   text-decoration: none;
 }
- .imagem.cabelo.jpg {
-
- 
+} .imagem.cabelo.jpg 
   width: 20%
- 
+ {
 }
 .produtos{
   width: 940px;
-  margin: 0 auto;
+  maring: 0 auto;
 }
 .produtos li{
   display: inline-block;
@@ -61,7 +60,7 @@ header ul li a{
   width:30%
 }
 .produtos h2{
-  font-size:30px;
+  front-size:30px;
   font-weight:bold;
 }
 .produtos li img {
